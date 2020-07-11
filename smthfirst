@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <meta charset="utf-8">
+     <title>"Это заголовок веб-страницы"</title>
+</head>
+
+<body>
+     <h1>"А это первый абзац для этой веб-страницы" </h1>
+</body>
+
+</html>
